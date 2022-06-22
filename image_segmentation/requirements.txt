@@ -1,6 +1,6 @@
 Keras==2.2.4
 h5py==2.7.1
-numpy==1.14.3
+numpy==1.22.0
 matplotlib==2.2.2
 scikit-image==0.13.1
 Pillow==6.2.1
